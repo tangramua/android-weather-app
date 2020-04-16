@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.3"
     defaultConfig {
-        applicationId "com.example.martinruiz.myapplication"
+        applicationId "com.example.tangram.com.example.tangram.weatherapp"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
